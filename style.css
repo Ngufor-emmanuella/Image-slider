@@ -11,10 +11,10 @@ body {
 }
 
 h2 {
-    color: beige;
-    font-size: 1.5rem;
+    color: rgb(164, 11, 11);
+    font-size: 95%;
     font-weight: 700;
-    padding: 5% 0;
+    padding: 5% 25% 5% 3%;
     justify-content: center;
     display: flex
 
@@ -39,8 +39,7 @@ h2 {
 }
 
 .box1 {
-    width: 57rem;
-    padding-top: 52%;
+    width: 51rem;
 }
 
 .carousel-control-prev-icon,
@@ -65,21 +64,59 @@ h2 {
 }
 
 .box2 img {
-    height: 85%;
+    height: 86vh;
 }
 
 .box3 {
-    height: 68vh;
+    height: 78vh;
 }
 
 .box4 {
-    height: 68vh;
+    height: 78vh;
 }
 
 .box5 {
-    height: 68vh;
+    height: 78vh;
 }
 
 .box6 {
-    height: 69vh;
+    height: 78vh;
 }
+
+.box7 {
+    height: 77vh;
+}
+
+.box8 {
+    height: 70vh;
+}
+
+#play-button {
+    color: rgb(164, 11, 11);
+    font-size: 1.3rem;
+    font-weight: 700;
+    padding: 5% 51% 5% 3%;
+}
+
+.box9 {
+    height: 77vh;
+}
+
+.box10 {
+    height: 77vh;
+}
+
+.box11 {
+    height: 77vh;
+}
+
+.box12 {
+    height: 45vh;
+}
+
+.box13 {
+    height: 77vh;
+}
+
+
+/* 77 */
