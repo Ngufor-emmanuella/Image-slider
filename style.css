@@ -12,9 +12,9 @@ body {
 
 h2 {
     color: rgb(164, 11, 11);
-    font-size: 95%;
+    font-size: 1.2rem;
     font-weight: 700;
-    padding: 5% 25% 5% 3%;
+    padding: 5% 2% 5% 2%;
     justify-content: center;
     display: flex
 
@@ -39,7 +39,7 @@ h2 {
 }
 
 .box1 {
-    width: 51rem;
+    width: auto;
 }
 
 .carousel-control-prev-icon,
@@ -51,7 +51,6 @@ h2 {
 
 .carousel-item img {
     height: 90%; 
-    object-fit: cover; 
 }
 
 .carousel-control-prev,
@@ -60,31 +59,39 @@ h2 {
 }
 
 .box2 {
-    height: 75vh;
+    height: 70vh;
 }
 
-.box2 img {
-    height: 86vh;
+.box-case {
+    height: 90vh;
+}
+
+.box-blue {
+    height: 90vh;
 }
 
 .box3 {
-    height: 78vh;
+    height: 80vh;
 }
 
 .box4 {
-    height: 78vh;
+    height: 80vh;
 }
 
 .box5 {
-    height: 78vh;
+    height: 80vh;
 }
 
 .box6 {
-    height: 78vh;
+    height: 80vh;
 }
 
 .box7 {
-    height: 77vh;
+    height: 80vh;
+}
+
+.box7 img {
+    height: 80vh;
 }
 
 .box8 {
@@ -93,21 +100,21 @@ h2 {
 
 #play-button {
     color: rgb(164, 11, 11);
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: 700;
-    padding: 5% 51% 5% 3%;
+    padding: 1% 1% 1% 1%;
 }
 
 .box9 {
-    height: 77vh;
+    height: 85vh;
 }
 
 .box10 {
-    height: 77vh;
+    height: 85vh;
 }
 
 .box11 {
-    height: 77vh;
+    height: 90vh;
 }
 
 .box12 {
@@ -116,6 +123,19 @@ h2 {
 
 .box13 {
     height: 77vh;
+}
+
+.box-scarf {
+    border: 2px solid blue;
+    height: 88vh;
+}
+
+.box-sacrf img {
+    height: 100%;
+}
+
+.box-last {
+    height: 80vh;
 }
 
 
