@@ -11,7 +11,7 @@ body {
 }
 
 h2 {
-    color: rgb(164, 11, 11);
+    color: rgb(247, 247, 247);
     font-size: 1.2rem;
     font-weight: 700;
     padding: 5% 2% 5% 2%;
@@ -126,7 +126,7 @@ h2 {
 }
 
 .box-scarf {
-    border: 2px solid blue;
+   
     height: 88vh;
 }
 
